@@ -4,6 +4,10 @@
 ### Problem Definition:
 Write a program to implement Breadth-first search (BFS) and Depth-first search (DFS) on a directed graph. 
 
+<p align="center">
+    <img src="./graph.png">
+</p>
+
 ------------------------------------------
 ### Output:
 

@@ -12,6 +12,8 @@ There are 2 variants of double ended queue :
 
 ------------------------------------------
 ### Output:
+
+* **Input Restricted Queue**
 <p align="center">
     <img src="./output/output-1.png">
 </p>
@@ -24,6 +26,8 @@ There are 2 variants of double ended queue :
 <p align="center">
     <img src="./output/output-4.png">
 </p>
+
+* **Output Restricted Queue**
 <p align="center">
     <img src="./output/output-5.png">
 </p>

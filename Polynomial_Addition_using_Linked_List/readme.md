@@ -1,15 +1,8 @@
-## Binary Search Tree
+## Polynomial Addition using Linked List
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement a Binary Search Tree (BST). 
-
-Binary Search Tree, is a node-based binary tree data structure which has the following properties:
-* The left subtree of a node contains only nodes with keys less than the node’s key.
-* The right subtree of a node contains only nodes with keys greater than the node’s key.
-* The left and right subtree each must also be a binary search tree.
-
-There are no duplicate nodes.
+Write a program to perform addition of polynomials in three variables using linked list.
 
 ------------------------------------------
 ### Output:
@@ -31,9 +24,5 @@ There are no duplicate nodes.
 <p align="center">
     <img src="./output/output-6.jpg">
 </p>
-<p align="center">
-    <img src="./output/output-7.jpg">
-</p>
-<p align="center">
-    <img src="./output/output-8.jpg">
-</p>
+
+*** *The last term in the sum should be 3 x0 y1 z2. However, the term y2 was cropped out of the image. It is not an error in the code, the code will give the correct sum.*

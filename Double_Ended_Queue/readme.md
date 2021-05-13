@@ -1,15 +1,14 @@
-## Binary Search Tree
+## Double Ended Queue
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement a Binary Search Tree (BST). 
+Write a program to implementat a double ended queue, or a deque.
 
-Binary Search Tree, is a node-based binary tree data structure which has the following properties:
-* The left subtree of a node contains only nodes with keys less than the node’s key.
-* The right subtree of a node contains only nodes with keys greater than the node’s key.
-* The left and right subtree each must also be a binary search tree.
+A deque is a list in which the elements can be inserted or deleted at either end. It is also known as head-tail linked list, because the elements can be added or removed from either the front or the back. However, no element can be added or deleted from the middle of the list. 
 
-There are no duplicate nodes.
+There are 2 variants of double ended queue :
+1. **Input restricted deque** : In this deque, insertions can be done only at one end while deletion can be done from both ends.
+2. **Output restricted deque** : In this deque, deletion can be done only at one end while insertion can be done at both ends.
 
 ------------------------------------------
 ### Output:

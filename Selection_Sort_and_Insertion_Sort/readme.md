@@ -2,7 +2,7 @@
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Selection sort and Insertion sort on a given list of integers. 
+Write a program to implement Selection sort and Insertion sort on a given list of integers. Display the output after each pass.
 
 ------------------------------------------
 ### Output:

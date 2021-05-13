@@ -6,6 +6,8 @@ Write a program to implement Breadth-first search (BFS) and Depth-first search (
 
 ------------------------------------------
 ### Output:
+
+* **BFS Traversal**
 <p align="center">
     <img src="./output/output-1.jpg">
 </p>
@@ -18,6 +20,8 @@ Write a program to implement Breadth-first search (BFS) and Depth-first search (
 <p align="center">
     <img src="./output/output-4.jpg">
 </p>
+
+* **DFS Traversal**
 <p align="center">
     <img src="./output/output-5.jpg">
 </p>

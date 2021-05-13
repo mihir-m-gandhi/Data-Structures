@@ -13,26 +13,26 @@ There are 2 variants of double ended queue :
 ------------------------------------------
 ### Output:
 <p align="center">
-    <img src="./output/output-1.jpg">
+    <img src="./output/output-1.png">
 </p>
 <p align="center">
-    <img src="./output/output-2.jpg">
+    <img src="./output/output-2.png">
 </p>
 <p align="center">
-    <img src="./output/output-3.jpg">
+    <img src="./output/output-3.png">
 </p>
 <p align="center">
-    <img src="./output/output-4.jpg">
+    <img src="./output/output-4.png">
 </p>
 <p align="center">
-    <img src="./output/output-5.jpg">
+    <img src="./output/output-5.png">
 </p>
 <p align="center">
-    <img src="./output/output-6.jpg">
+    <img src="./output/output-6.png">
 </p>
 <p align="center">
-    <img src="./output/output-7.jpg">
+    <img src="./output/output-7.png">
 </p>
 <p align="center">
-    <img src="./output/output-8.jpg">
+    <img src="./output/output-8.png">
 </p>

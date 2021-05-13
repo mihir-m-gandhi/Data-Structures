@@ -1,4 +1,4 @@
-## Binary Search Tree
+## Graph Traversal: BFS and DFS
 
 -----------------------------------------
 ### Problem Definition:

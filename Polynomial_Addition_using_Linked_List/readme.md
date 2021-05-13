@@ -25,4 +25,4 @@ Write a program to perform addition of polynomials in three variables using link
     <img src="./output/output-6.jpg">
 </p>
 
-*The last term in the sum should be 3 x0 y1 z2. However, the term y2 was cropped out of the image. The code will give the write output.
+*The last term in the sum should be 3 x0 y1 z2. However, the term y2 was cropped out of the image. The code will give the write output.*

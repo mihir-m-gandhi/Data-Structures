@@ -1,15 +1,8 @@
-## Binary Search Tree
+## Selection Sort and Insertion Sort
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement a Binary Search Tree (BST). 
-
-Binary Search Tree, is a node-based binary tree data structure which has the following properties:
-* The left subtree of a node contains only nodes with keys less than the node’s key.
-* The right subtree of a node contains only nodes with keys greater than the node’s key.
-* The left and right subtree each must also be a binary search tree.
-
-There are no duplicate nodes.
+Write a program to implement Selection sort and Insertion sort on a given list of integers. 
 
 ------------------------------------------
 ### Output:
@@ -33,7 +26,4 @@ There are no duplicate nodes.
 </p>
 <p align="center">
     <img src="./output/output-7.jpg">
-</p>
-<p align="center">
-    <img src="./output/output-8.jpg">
 </p>

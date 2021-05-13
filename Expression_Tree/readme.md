@@ -1,39 +1,17 @@
-## Binary Search Tree
+## Expression Tree
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement a Binary Search Tree (BST). 
+Write a program to implement a Binary Expression Tree using Postfix expression. 
 
-Binary Search Tree, is a node-based binary tree data structure which has the following properties:
-* The left subtree of a node contains only nodes with keys less than the node’s key.
-* The right subtree of a node contains only nodes with keys greater than the node’s key.
-* The left and right subtree each must also be a binary search tree.
+A binary expression tree is a specific kind of a binary tree used to represent expressions. These trees can represent expressions that contain binary operators. The leaves of a binary expression tree are operands, such as constants or variable names, and the other nodes contain operators. 
 
-There are no duplicate nodes.
+<p align="center">
+    <img src="./expression-tree.jpg">
+</p>
 
 ------------------------------------------
 ### Output:
 <p align="center">
-    <img src="./output/output-1.jpg">
-</p>
-<p align="center">
-    <img src="./output/output-2.jpg">
-</p>
-<p align="center">
-    <img src="./output/output-3.jpg">
-</p>
-<p align="center">
-    <img src="./output/output-4.jpg">
-</p>
-<p align="center">
-    <img src="./output/output-5.jpg">
-</p>
-<p align="center">
-    <img src="./output/output-6.jpg">
-</p>
-<p align="center">
-    <img src="./output/output-7.jpg">
-</p>
-<p align="center">
-    <img src="./output/output-8.jpg">
+    <img src="./output.jpg">
 </p>

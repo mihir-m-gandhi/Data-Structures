@@ -1,18 +1,13 @@
-## Binary Search Tree
+## Hashing with Collision Resolution
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement a Binary Search Tree (BST). 
-
-Binary Search Tree, is a node-based binary tree data structure which has the following properties:
-* The left subtree of a node contains only nodes with keys less than the node’s key.
-* The right subtree of a node contains only nodes with keys greater than the node’s key.
-* The left and right subtree each must also be a binary search tree.
-
-There are no duplicate nodes.
+Write a program to implementat **Hashing** using 2 collision resolution methods - *linear probing* and *quadratic probing*.
 
 ------------------------------------------
 ### Output:
+
+* **Linear Probing**
 <p align="center">
     <img src="./output/output-1.jpg">
 </p>
@@ -25,6 +20,8 @@ There are no duplicate nodes.
 <p align="center">
     <img src="./output/output-4.jpg">
 </p>
+
+* **Quadratic Probing**
 <p align="center">
     <img src="./output/output-5.jpg">
 </p>
